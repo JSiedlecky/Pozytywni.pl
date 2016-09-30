@@ -5,6 +5,6 @@
     <title>Pozytywni</title>
   </head>
   <body>
-      <h1>Witaj</h1>
+      <h1>Witajj</h1>
   </body>
 </html>
