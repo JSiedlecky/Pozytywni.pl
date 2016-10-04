@@ -5,6 +5,10 @@
     <title>Pozytywni</title>
   </head>
   <body>
+<<<<<<< Updated upstream
       <h1>Witajj</h1>
+=======
+    ELO
+>>>>>>> Stashed changes
   </body>
 </html>
